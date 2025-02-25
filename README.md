@@ -61,7 +61,7 @@ BlockingQueue<Runnable> workQueue
 
 JUC编程，线程池的构造方法
 
-容器池仿造线程池做（业界标杆）
+容器池仿造线程池做
 
 
 
